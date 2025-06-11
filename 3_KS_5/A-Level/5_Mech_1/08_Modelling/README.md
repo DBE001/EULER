@@ -9,12 +9,5 @@ This chapter can be used to introduce mechanics or it may be skipped over and re
 ## Lessons
 
 * [Constructing-Models](./1_Constructing_Models/1_MechYr1-Chp8-Modelling.pptx)
-* [Quantities-and-Vectors](https://github.com/DBE001/EULER/tree/main/3_KS_5/A-Level/5_Mech_1/09_Constant_Acceleration)
-* [Mixed-Exercises](https://github.com/DBE001/EULER/tree/main/3_KS_5/A-Level/5_Mech_1/10_Forces_Motion)
-* X
-* Y
-* Z
-* [Constructing-Models](<iframe src="//docs.google.com/gview?url=https://github.com/DBE001/EULER/blob/main/3_KS_5/A-Level/5_Mech_1/08_Modelling/1_Constructing_Models/1_MechYr1-Chp8-Modelling.pptx&embedded=true" style="width:600px; height:500px;" frameborder="0"></iframe>)
-*
-*
-*[Test](https://github.com/DBE001/EULER/blob/main/3_KS_5/A-Level/5_Mech_1/08_Modelling/1_Constructing_Models/1_MechYr1-Chp8-Modelling.pptx)
+* [Quantities-and-Vectors](./2_Quantities_Vectors/2_MechYr1-Chp8-Vectors.pptx)
+* [Mixed-Exercises](./3_Mixed_Exercise/3_MechYr1-Chp8-ModellingPracticeQuestions.pptx)
