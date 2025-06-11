@@ -2,7 +2,7 @@
 
 The schemes of work for A-level mathematics at Newstead Wood School.
 
-## Year 12 
+## Year 12 Overview
 
 The Year-12 course consists of the following topics:
 
@@ -11,7 +11,7 @@ The Year-12 course consists of the following topics:
 * Statisitics 2 (3 topics in 16 lessons)
 * Mechanics 1 (4 topics in 18)
 
-### Pure 1
+### Pure 1 Lessons
 
-* [dbader](https://github.com/dbader/readme-template)
+* [Pure 1][(https://github.com/DBE001/EULER/tree/main/3_KS_5/A-Level/1_Pure_1)]
 
