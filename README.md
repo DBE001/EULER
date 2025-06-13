@@ -13,8 +13,8 @@ The Year-12 course for students of regular maths consists of the following topic
 * [Year-11](https://github.com/DBE001/EULER/tree/main/2_KS_4/1_Year_11)  : GCSE  Year 11.
 * [Year-11](https://github.com/DBE001/EULER/tree/main/2_KS_4/2_Year_FM)  : FMath Year 11.
 * [Year-11](https://github.com/DBE001/EULER/tree/main/2_KS_4/3_Year_SQ)  : FMSQ  Year 11.
-* [Year-12](https://github.com/DBE001/EULER/tree/main/3_KS_5/A-Level/) : A-level.
-* [Year-12](https://github.com/DBE001/EULER/tree/main/3_KS_5/Further-AL) : Further A-level.
+* [Alevel](https://github.com/DBE001/EULER/tree/main/3_KS_5/A-Level/) : A-level.
+* [Further](https://github.com/DBE001/EULER/tree/main/3_KS_5/Further-AL) : Further A-level.
 
 ## Information
 
