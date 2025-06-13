@@ -9,7 +9,7 @@ The Year-12 course for students of regular maths consists of the following topic
 * [Pure-Maths-1](https://github.com/DBE001/EULER/tree/main/3_KS_5/A-Level/1_Pure_1)  : 14 topics in 70 lessons.
 * [Statistics-1](https://github.com/DBE001/EULER/tree/main/3_KS_5/A-Level/3_Stats_1) : 8 topics in 30 lessons.
 * [Statistics-2](https://github.com/DBE001/EULER/tree/main/3_KS_5/A-Level/4_Stats_2) : 3 topics in 16 lessons.
-* [Mechanics-1](https://github.com/DBE001/EULER/tree/main/3_KS_5/A-Level/5_Mech_1)   : 4 topics in 18.
+* [Mechanics-1](https://github.com/DBE001/EULER/tree/main/3_KS_5/A-Level/5_Mech_1)   : 4 topics in 18 lessons.
 
 ## Information
 
