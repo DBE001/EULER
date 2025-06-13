@@ -11,3 +11,18 @@ The Year-12 course for students of regular maths consists of the following topic
 * [Statistics-2](https://github.com/DBE001/EULER/tree/main/3_KS_5/A-Level/4_Stats_2) : 3 topics in 16 lessons.
 * [Mechanics-1](https://github.com/DBE001/EULER/tree/main/3_KS_5/A-Level/5_Mech_1)   : 4 topics in 18.
 
+## Information
+
+Additional information can be placed here, organised into subheadings as appropriate.
+
+### Pure Maths
+
+The course covers the Edexcel AS syllabus.
+
+### Statistics
+
+The entire Edexcel statisitics course is covered by the end of March.
+
+### Mechanics
+
+The first AS year of Edexcel Mechanics.
