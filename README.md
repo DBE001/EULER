@@ -4,7 +4,7 @@ The schemes of work for mathematics at Newstead Wood School.
 
 ## Schemes Of Work
 
-The Year-12 course for students of regular maths consists of the following topics:
+The syllabus is arranged by year group with year-11 having the option of higher-tier GCSE or Further GCSE or Additional Maths:
 
 * [Year-7](https://github.com/DBE001/EULER/tree/main/1_KS_3/1_Year_7)  : Year 7.
 * [Year-8](https://github.com/DBE001/EULER/tree/main/1_KS_3/1_Year_8)  : Year 8.
