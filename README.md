@@ -1,6 +1,6 @@
-# Newstead Wood Mathematics
+# SoW Mathematics
 
-The schemes of work for mathematics at Newstead Wood School.
+The schemes of work for mathematics.
 
 ## Schemes Of Work
 
